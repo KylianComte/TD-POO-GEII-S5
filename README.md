@@ -1,2 +1,2 @@
-# TD-POO-GEII-S5
-Ce depot contiens tous les corrigés des TD rangés par dossier
+# TD1 Programation Orientée Objet - BUT 3 IUT GEII - Paul Sabatier Tlse3
+Ce repertoire comporte la correction aux 4 exercices qui composent le TD1 de POO
